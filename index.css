@@ -1,0 +1,144 @@
+body {
+	background-color: #040f18;
+}
+
+#bg-image {
+	background-color: #043738;
+	height: 100vh;
+}
+
+.navbar {
+	background-color: #040f18;
+	opacity: .5;
+}
+
+.navbar-brand {
+	font-family: Shadows Into Light;
+	font-size: 30px;
+}
+
+.navbar-nav {
+	font-family: Shadows Into Light;
+	font-size: 20px;
+}
+
+#main_intro {
+	max-width: 100%;
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+}
+
+#main_content {
+	max-width: 100%;
+	min-height: 100vh;
+}
+
+#main_intro_header {
+	font-size: 10vw;
+	font-family: Anton;
+	color: #3d76a4;
+}
+
+.spinner-border {
+	color: #3d76a4;
+	font-size: 5vw;
+}
+
+.spinner-grow {
+	color: #14a79d;
+	font-size: 5vw;
+}
+
+#main_intro_info {
+	color: white;
+	font-size: 25px;
+}
+
+#dustin_aaron {
+	color: #095d72;
+	font-family: Anton;
+	font-size: 7vw;
+}
+
+#about_me_content {
+	color: white;
+	text-align: right;
+}
+
+#about_me {
+	min-height: 100vh;
+}
+
+
+.card {
+	background-color: #095d72;
+}
+
+.card-title {
+	color: #040f18;
+}
+
+.card-subtitle {
+	color: #14a79d;
+}
+
+.card-text {
+	color: white;
+}
+
+#project_in_mind {
+	font-family: Anton;
+	font-size: 6vw;
+	color: whitesmoke;
+}
+
+#contact_me_info {
+	background-color: #095d72;
+}
+
+.form-group {
+	color: white;
+}
+
+.btn {
+	background-color: #09384d;
+}
+
+#contact {
+	max-width: 100%;
+	min-height: 100vh;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(https://images.unsplash.com/photo-1541423408854-5df732b6f6d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+}
+
+#contact_spinner {
+	color: whitesmoke;
+}
+
+#form_bg {
+	background-color: rgba(9,56,77, .5);
+}
+
+#button_contact {
+	background-color: #09384d;
+	color: white;
+}
+
+footer {
+	color: whitesmoke;
+	font-size: 2vw;
+}
+
+a {
+	color: ghostwhite;
+}
+
+a:hover {
+	color: #14a79d;
+}
